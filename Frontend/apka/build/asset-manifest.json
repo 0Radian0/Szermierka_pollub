@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9379f1af.css",
+    "main.js": "/static/js/main.a2e4e12c.js",
+    "static/js/453.a496d02d.chunk.js": "/static/js/453.a496d02d.chunk.js",
+    "static/media/96b.jpg": "/static/media/96b.d543db76fcb83edb8df3.jpg",
+    "static/media/b_1.jpg": "/static/media/b_1.609d6004fba059317719.jpg",
+    "static/media/hema.jpg": "/static/media/hema.6cd46b12999f7064c96f.jpg",
+    "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.8ae0d37556ff1e685de2.woff2",
+    "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.1c5c7716b05754cb4eab.woff2",
+    "static/media/lewo.jpg": "/static/media/lewo.0d2f7280308d3ac18265.jpg",
+    "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.6f05ca9ab7b5345dbc07.woff2",
+    "static/media/fa-v4compatibility.woff2": "/static/media/fa-v4compatibility.e4340c52a50e727c6afa.woff2",
+    "index.html": "/index.html",
+    "main.9379f1af.css.map": "/static/css/main.9379f1af.css.map",
+    "main.a2e4e12c.js.map": "/static/js/main.a2e4e12c.js.map",
+    "453.a496d02d.chunk.js.map": "/static/js/453.a496d02d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9379f1af.css",
+    "static/js/main.a2e4e12c.js"
+  ]
+}
